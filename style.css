@@ -1,0 +1,216 @@
+*{margin: 0; padding: 0;}
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');
+body{
+    font-family:'Nunito', sans-serif;
+    background: #fff;
+}
+.head {background-color: #f8fafc;}
+.container {
+    width: 1140px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: auto;
+    margin-top: 40px;
+}
+nav.container {
+    width: 1140px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: auto;
+    margin-top: 0px;
+}
+.logoandmanuwraper {
+    overflow: hidden;
+    width: 100%;
+}
+
+.logo {
+    width: 200px;
+    float: left;
+    padding-top: 30px;
+}
+
+.manus {
+    width: 800px;
+    float: right;
+}
+
+ul.manulist {
+    list-style: none;
+}
+ul.manulist li {
+    float: left;
+}
+ul.manulist li {
+    float: left;
+}
+
+ul.manulist li a {
+    text-decoration: none;
+    display: block;
+    padding-top: 70px;
+    padding-left: 50px;
+    font-size: 21px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+ul.manulist li a:hover{
+    color: orange;
+}
+
+
+.welcometune {
+    text-align: center;
+    color: blue;
+    font-size: 31px;
+}
+
+.imgabut { margin-top: 20px;
+   
+}
+.aboutme {
+    width: 500px;
+    float: left;
+    line-height: 37px;
+}
+
+
+
+.otwraper {
+    overflow: hidden;
+    padding: 10px 80px 10px 80px;
+}
+div#one {
+    width: 400px;
+    float: left;
+    background: #c1c0c0;
+    transition: .80s;
+    border-radius: 10px;
+}
+div#two {
+    width: 400px;
+    float: right;
+    background: #c1c0c0;
+    transition: .80s;
+    border-radius: 10px;
+}
+.icon {
+    text-align: center;
+    font-size: 60px;
+    color: red;
+    padding-top: 10px;
+}
+.sername {
+    text-align: center;
+    font-size: 23px;
+    color: blue;
+    padding-top: 20px;
+
+}
+.dis {
+    text-align: center;
+    font-size: 22px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+
+
+footer {
+    padding: 30px 30px;
+    background-color: #111;
+    color: white;
+}
+div#fotwraper {
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+div#copyrite {
+    width: 600px;
+    font-size: 23px;
+    float: left;
+}
+div#social {
+    width: 500px;
+    float: right;
+}
+div#social a i {
+    font-size: 30px;
+    padding-left: 50px;
+}
+
+/* letest artical div */
+
+.lpandxpwrap {
+    overflow: hidden;
+    width: 1100px;
+    margin: auto;
+}
+div#explore {
+    width: 550px;
+    float: left;
+    font-size: 25px;
+}
+div#letestartical {
+    width: 550px;
+    float: right;
+    font-size: 25px;
+}
+
+hr.line1 {
+    border: 2px solid #8282bd;
+    width: 90px;
+}
+div#facebookmarketing {
+    padding: 30px 15px;
+}
+div#facebookmarketing h6 {
+    padding-top: 3px;
+    padding-left: 5px;
+    font-size: 15px;
+}
+hr#line2 {
+    width: 400px;
+    margin-top: 32px;
+    border: 1px solid black;
+}
+
+
+
+
+/*blog page css*/
+
+div#artical1 {
+    width: 550px;
+    border-radius: 6px;
+    background-color: lightgray;
+}
+div#artical1 h1 {
+    font-size: 29px;
+    padding-bottom: 5px;
+}
+
+
+
+
+.instagrammarketing {
+    width: 350px;
+}
+
+.instagrammarketing a h1 {
+    font-size: 31px;
+    padding-bottom: 10px;
+}
+
+.instagrammarketing h3 {
+    font-size: 18px;
+    padding-bottom: 34px;
+}
+
+hr#line3 {
+    width: 420px;
+    border: 1px solid black;
+    margin-bottom: 40px;
+}
